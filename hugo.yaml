@@ -1,0 +1,26 @@
+baseURL: 'https://docs.newflow.co.uk/'
+languageCode: 'en-us'
+title: 'Newflow'
+theme: "hextra"
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: true
+    logo:
+      path: images/icon.png
+  theme:
+    default: light
+    displayToggle: true
+  page:
+    width: full
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      index: content
+  menu:
+    main:
+      - name: Search
+        params:
+        type: search
