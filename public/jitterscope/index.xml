@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newflow – P568 - MPIM</title>
+    <link>http://localhost:1313/jitterscope/</link>
+    <description>Recent content in P568 - MPIM on Newflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 07 May 2022 22:45:52 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/jitterscope/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>

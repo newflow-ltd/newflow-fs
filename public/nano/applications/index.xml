@@ -1,0 +1,206 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newflow – NÅNO Flow Computer Applications</title>
+    <link>http://localhost:1313/nano/applications/</link>
+    <description>Recent content in NÅNO Flow Computer Applications on Newflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 11:31:35 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/nano/applications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Liquid Flow Computer</title>
+      <link>http://localhost:1313/nano/applications/liquid/</link>
+      <pubDate>Fri, 14 Apr 2023 09:15:19 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/liquid/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Liquid_Flow_Computer_2v0r1.ccc&#34; &gt;Liquid Flow Computer &lt;em&gt;Release 2v0r1&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Liquid_Flow_Computer-Config_and_User_Manual_R6.pdf&#34; &gt;Liquid Flow Computer - Config &amp;amp; User Manual &lt;em&gt;Release 6&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Liquid_Flow_Computer_Modbus_Map_2v0r0.pdf&#34; &gt;Liquid Flow Computer - Modbus Map &lt;em&gt;Release 2v0r0&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Liquid_Flow_Computer_OPC_Map_2v0r0.pdf&#34; &gt;Liquid Flow Computer - OPC Map &lt;em&gt;Release 2v0r0&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Unified Prover</title>
+      <link>http://localhost:1313/nano/applications/unifiedprover/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/unifiedprover/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Unified_Prover_1v0r132.ccc&#34; &gt;Unified Prover &lt;em&gt;Release 1v0r132&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Unified_Prover_Application-Config_and_User_Manual_R2.pdf&#34; &gt;Unified Prover - Config &amp;amp; User Manual &lt;em&gt;Revision 2&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Unified_Prover_OPC_Map_1v0r132.pdf&#34; &gt;Unified Prover - OPC Map &lt;em&gt;Release 1v0r132&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Master Meter Prover</title>
+      <link>http://localhost:1313/nano/applications/mastermeter/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/mastermeter/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Master_Meter_Application_0v4r26.ccc&#34; &gt;Master Meter Prover &lt;em&gt;Release 0v4r26&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Master_Meter_Application-Config_and_User_Manual_R3.pdf&#34; &gt;Master Meter Prover - Config &amp;amp; User Manual &lt;em&gt;Release 3&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Default Application</title>
+      <link>http://localhost:1313/nano/applications/default/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/default/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/default_1v3r2.ccc&#34; &gt;Default App &lt;em&gt;Release 1v3r2&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;Default App - Config &amp;amp; User Manual &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>LACT Pro®</title>
+      <link>http://localhost:1313/nano/applications/lactpro/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/lactpro/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/LACT-Pro_Meter_App_5v5r1.ccc&#34; &gt;LACT Pro® Application &lt;em&gt;Release 5v5r1&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/LACT_Config_&amp;amp;_User_Manual_R3_%28NF20180420LPUMrev3-Released%29.pdf&#34; &gt;LACT Pro® - Config &amp;amp; User Manual &lt;em&gt;Revision 3&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;LACT Pro® - Driver &amp;amp; Local Panel Manual &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/LACT_Modbus_Map_Released_Rev2.pdf&#34; &gt;LACT Pro® - Modbus Map &lt;em&gt;Revision 2&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;LACT Pro® - Reports Manual &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;Master Meter Simulator Poll File &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>LACT Pro® (Tank)</title>
+      <link>http://localhost:1313/nano/applications/lactprotank/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/lactprotank/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/LACT-Pro_Tank_App_0v8r44.ccc&#34; &gt;LACT Pro® (Tank) Application &lt;em&gt;Release 0v8r44&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/TANK-Pro_Config_&amp;amp;_User_Manual_R0.pdf&#34; &gt;LACT Pro® (Tank) - Config &amp;amp; User Manual &lt;em&gt;Release 0&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;LACT Pro® (Tank) - Modbus Map &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;Master Meter Simulator Poll File &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>DP Gas Flow Computer</title>
+      <link>http://localhost:1313/nano/applications/dpgas/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/dpgas/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Gas_Orifice_App_8v0r69.ccc&#34; &gt;Differential Pressure Gas Flow Computer &lt;em&gt;Release 8v0r69&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Gas_Differential_Pressure_Application_-_Config_&amp;amp;_User_Manual_R1.pdf&#34; &gt;Differential Pressure Gas Flow Computer - Config &amp;amp; User Manual &lt;em&gt;Revision 1&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Miscellaneous&lt;span class=&#34;absolute -mt-20&#34; id=&#34;miscellaneous&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#miscellaneous&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;Master Meter Simulator Poll File &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sampler System Verification</title>
+      <link>http://localhost:1313/nano/applications/ssv/</link>
+      <pubDate>Thu, 05 May 2022 11:31:35 +0000</pubDate>
+      
+      <guid>http://localhost:1313/nano/applications/ssv/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Application&lt;span class=&#34;absolute -mt-20&#34; id=&#34;application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34; &gt;Sampler System Verification &lt;em&gt;Contact factory&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Documents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;documents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#documents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/nano/applications/Sampler_System_Verification_-_Quickstart_Rev0.pdf&#34; &gt;Sampler System Verification - Quickstart &lt;em&gt;Revision 0&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
