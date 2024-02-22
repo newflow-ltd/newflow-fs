@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Newflow – DP Gas Flow Computer</title>
+    <link>http://localhost:1313/nano/applications/dpgas/</link>
+    <description>Recent content in DP Gas Flow Computer on Newflow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 May 2022 11:31:35 +0000</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/nano/applications/dpgas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
