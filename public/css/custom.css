@@ -38,3 +38,7 @@
 .nav-container {
 	background-color: black;
 }
+
+.subheading-anchor {
+	display: none;
+}
