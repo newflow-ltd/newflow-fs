@@ -171,6 +171,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // Preload the search index.
   async function preloadIndex() {
     window.pageIndex = new FlexSearch.Document({
+	  charset: 'latin:simple',
       tokenize: 'full',
       cache: 100,
       document: {
@@ -181,6 +182,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     window.sectionIndex = new FlexSearch.Document({
+	  charset: 'latin:simple',
       tokenize: 'full',
       cache: 100,
       document: {
