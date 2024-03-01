@@ -63,4 +63,4 @@ jobs:
 
       - name: 'Push to Cloud'
         run: |
-          gcloud storage cp --recursive ./public gs://${{ secret.BUCKET_NAME }}
+          gcloud storage cp --recursive ./public gs://${{ secrets.BUCKET_NAME }}
