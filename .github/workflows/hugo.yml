@@ -51,7 +51,7 @@ jobs:
         run: |
           hugo \
             --minify \
-            --baseURL "./public"
+            --baseURL "${{ secrets.BASE_URL }}"
 
       - id: 'auth'
         uses: 'google-github-actions/auth@v2'
