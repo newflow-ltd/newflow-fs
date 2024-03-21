@@ -19,6 +19,6 @@ dateCreated: 2022-05-05T11:47:12.610Z
 ## Software
 - [Windows BootLoader Program *Release 1v0r5*](</rmu/pico/Newflow BootLoader 1v0r5.exe>)
 - [Windows BootLoader Program - User Manual *Release 0*](</rmu/pico/Windows BootLoader Program - User Manual R0.pdf>)
-- [Modbus Master Simulator Poll File *Release 2024-03-21*](/rmu/pico/PicoRMU_Modbus_Poll_File_21Mar2024.xml)
+- [Modbus Master Simulator Poll File *zipped* *Release 2024-03-21*](/rmu/pico/PicoRMU_Modbus_Poll_File_21Mar2024.zip)
 - [Windows Modbus Master Simulator Installer *Link*](/nano/software#modbus-master-simulator)
 
