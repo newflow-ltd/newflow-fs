@@ -11,7 +11,7 @@ dateCreated: 2022-05-05T11:47:12.610Z
 ---
 
 ## Documents
-- [Pico RMU User Manual *Rev 4*](/rmu/pico/P591_PicoRMU_User_Manual_R4.pdf)
+- [Pico RMU User Manual *Rev 5*](/rmu/pico/P591_PicoRMU_User_Manual_R5.pdf)
 
 ## Firmware
 - [Firmware *Contact factory*]()
