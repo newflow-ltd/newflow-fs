@@ -14,5 +14,5 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [Sampler System Verification *Contact factory*]()
 
 ## Documents
-- [Sampler System Verification - Quickstart *Revision 0*](/nano/applications/Sampler_System_Verification_-_Quickstart_Rev0.pdf)
+- [Sampler System Verification - Quickstart *Revision 0*](/nano/applications/ssv/Sampler_System_Verification_-_Quickstart_Rev0.pdf)
 
