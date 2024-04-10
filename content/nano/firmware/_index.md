@@ -26,5 +26,5 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [System OS *Release 5.7.7*](/nano/firmware/CPU_4vX_SystemOS_5.7.7.zip)
 
 ## Failsafe SD Card Generation
-- [Failsafe SD Card *Release 5.7.7 / 4v7r8979*](/nano/firmware/FailSafe_5.7.7_4v7r8979-R.zip)
+- [Failsafe SD Card *zipped* *Release 5.7.7 / 4v7r9455*](/nano/firmware/<Failsafe 5.7.7 4v7r9455-R.zip>)
 - [Preparing a bootable SD card](/nano/firmware/Preparing_bootable_SD_card.pdf)
