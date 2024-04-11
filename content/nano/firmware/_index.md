@@ -11,8 +11,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## CPU Firmware
-- [CPU Firmware *Release 4v7r9416*](/nano/firmware/CPU_4v7r9416-R.zip)
-- [CPU Firmware Release Notes - 4v7r9416 *Issued 23-Nov-2023*](/nano/firmware/CPU_Firmware_ChangeLog_2024-02-07.pdf)
+- [CPU Firmware *Release 4v7r9455*](/nano/firmware/CPU_4v7r9455-R.zip)
+- [CPU Firmware Release Notes - 4v7r9455 *Issued 11-Apr-2024*](/nano/firmware/CPU_Firmware_ChangeLog_2024-04-11.pdf)
 
 ## I/O Firmware
 #### From 3vXX
