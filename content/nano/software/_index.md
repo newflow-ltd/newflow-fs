@@ -34,8 +34,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [Windows Executable *Release v2.0.0.26*](/nano/software/Local_Panel_Emulator-v2.0.0.26.exe)
 
 ## Modbus Master Simulator
-- [Windows Executable *Release 1v9*](/nano/software/ModbusMasterSimulator-1v9-Installer.exe)
-- [User Manual *Release 1*](/nano/software/Modbus_Master_Simulator_User_Manual_R1.pdf)
+- [Windows Executable *Release 2.1.1.0*](/nano/software/ModbusMasterSimulator_2.1.1.0.exe)
+- [User Manual *Release 2*](/nano/software/Modbus_Master_Simulator_User_Manual_R2.pdf)
 - [NÅNO RMU Modbus Master Simulator Poll File *Link*](/rmu/nano#software)
 - [Pico Modbus Master Simulator Poll File *Link*](/rmu/pico/#software)
 
