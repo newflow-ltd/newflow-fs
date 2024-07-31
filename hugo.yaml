@@ -35,3 +35,8 @@ menu:
     - name: Search
       params:
         type: search
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

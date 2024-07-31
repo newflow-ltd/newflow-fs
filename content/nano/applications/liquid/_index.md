@@ -12,6 +12,7 @@ dateCreated: 2023-03-25T12:01:00.798Z
 
 ## Application
 - [Liquid Flow Computer *Release 2v0r1*](/nano/applications/liquid/Liquid_Flow_Computer_2v0r1.ccc)
+- <a href="/nano/applications/liquid/Liquid_Flow_Computer_2v0r1.ccc" download>Liquid Flow Computer *Release 2v0r1*</a>
 
 ## Documents
 - [Liquid Flow Computer - Config & User Manual *Release 6*](/nano/applications/liquid/Liquid_Flow_Computer-Config_and_User_Manual_R6.pdf)
