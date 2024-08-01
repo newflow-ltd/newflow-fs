@@ -11,8 +11,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## CPU Firmware
-- <a href="/nano/firmware/CPU_4v7r9547-R.zip" download>CPU Firmware *Release 4v7r9547*</a>
-- [CPU Firmware Release Notes - 4v7r9547 *Issued 23-Jul-2024*](</nano/firmware/CPU_Firmware_ChangeLog_2024-07-23.pdf>)
+- <a href="/nano/firmware/CPU_4v7r9554-R.zip" download>CPU Firmware *Release 4v7r9554*</a>
+- [CPU Firmware Release Notes - 4v7r9554 *Issued 01-Aug-2024*](</nano/firmware/CPU_Firmware_ChangeLog_2024-08-01.pdf>)
 
 ## I/O Firmware
 #### From 3vXX
