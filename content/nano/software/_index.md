@@ -11,19 +11,19 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## NÅNOconf
-- [Windows Executable *Release 4v5r8*](/nano/software/SetupNanoConf_4v5r8.msi)
+- <a href="/nano/software/SetupNanoConf_4v5r8.msi" download>Windows Executable *Release 4v5r8*</a>
 - [Release Notes - 4r5r8 *Issued 21-Dec-2023*](/nano/software/NANOconf_ChangeLog_4v5r8.pdf)
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
 ## Visual C||Cure
-- [Windows Executable *Release 4r9549*](/nano/software/SetupVCC_4r9549.msi)
+- <a href="/nano/software/SetupVCC_4r9549.msi" download>Windows Executable *Release 4r9549*</a>
 - [Release Notes - 4r9549 *Issued 25-Jul-2024*](/nano/software/Visual_CCure_ChangeLog_2024-07-25.pdf)
-- [Base Library *zipped* *Issued 12-Feb-2024*](/nano/software/base_library_2024-02-12.zip)
+- <a href="/nano/software/base_library_2024-02-12.zip" download>Base Library *zipped* *Issued 12-Feb-2024*</a>
 - [User Manual *Release Rev3*](/nano/software/Visual_CCure_User_Manual_Release_R3.pdf)
 - [Comms Links Manual *Release Rev3*](/nano/software/Visual_CCure_Comms_Links_-_Release_R3.pdf)
 
 ## XML Tester
-- [Windows Executable *Release 1v8*](/nano/software/XML_Tester_1v8.exe)
+- <a href="/nano/software/XML_Tester_1v8.exe" download>Windows Executable *Release 1v8*</a>
 - [NÅNO XML Comms Manual *Release 21*](/nano/software/Nano_XML_Comms-Rev21.pdf)
 
 ## ConstEd
@@ -31,14 +31,13 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [User Manual *Contact factory*]()
 
 ## Local Panel Emulator
-- [Windows Executable *Release v2.0.0.26*](/nano/software/Local_Panel_Emulator-v2.0.0.26.exe)
+- <a href="/nano/software/Local_Panel_Emulator-v2.0.0.26.exe" download>Windows Executable *Release v2.0.0.26*</a>
 
 ## Modbus Master Simulator
-- [Windows Executable *Release 2.1.1.0*](/nano/software/ModbusMasterSimulator_2.1.1.0.exe)
+- <a href="/nano/software/ModbusMasterSimulator_2.1.1.0.exe" download>Windows Executable *Release 2.1.1.0*</a>
 - [User Manual *Release 2*](/nano/software/Modbus_Master_Simulator_User_Manual_R2.pdf)
 - [NÅNO RMU Modbus Master Simulator Poll File *Link*](/rmu/nano#software)
 - [Pico Modbus Master Simulator Poll File *Link*](/rmu/pico/#software)
 
 ## Log File Viewer
-- [Windows Executable *Release 1v1*](/nano/software/NanoLogViewer1v1.exe)
-
+- <a href="/nano/software/NanoLogViewer1v1.exe" download>Windows Executable *Release 1v1*</a>

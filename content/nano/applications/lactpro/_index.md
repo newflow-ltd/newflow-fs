@@ -11,7 +11,7 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## Application
-- [LACT Pro® Application *Release 5v5r1*](/nano/applications/lactpro/LACT-Pro_Meter_App_5v5r1.ccc)
+- <a href="/nano/applications/lactpro/LACT-Pro_Meter_App_5v5r1.ccc" download>LACT Pro® Application *Release 5v5r1</a>
 
 ## Documents
 - [LACT Pro® - Config & User Manual *Revision 3*](/nano/applications/lactpro/LACT_Config_&_User_Manual_R3_(NF20180420LPUMrev3-Released).pdf)

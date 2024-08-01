@@ -11,7 +11,7 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## Application
-- [LACT Pro® (Tank) Application *Release 0v8r44*](/nano/applications/lactprotank/LACT-Pro_Tank_App_0v8r44.ccc)
+- <a href="/nano/applications/lactprotank/LACT-Pro_Tank_App_0v8r44.ccc" download>LACT Pro® (Tank) Application *Release 0v8r44</a>
 
 ## Documents
 - [LACT Pro® (Tank) - Config & User Manual *Release 0*](/nano/applications/lactprotank/TANK-Pro_Config_&_User_Manual_R0.pdf)
