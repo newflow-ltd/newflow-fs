@@ -20,12 +20,12 @@ dateCreated: 2022-05-05T11:42:09.223Z
 
 ## Firmware
 NOTE: If updating from version 3v6r0 or earlier, contact factory
-- [NÅNO RMU Firmware *Release 4v5r2*](/rmu/nano/P572_Newflow_RMU_LCD_4v5r2.hex)
+- <a href="/rmu/nano/P572_Newflow_RMU_LCD_4v5r2.hex" download>NÅNO RMU Firmware *Release 4v5r2*</a>
 - [NÅNO RMU Firmware Release Notes *Issued 26-Jan-2023*](/rmu/nano/P572_ChangeLog_2023-01-26.pdf)
-- [I/O Firmware *Release 3v04 / 2v11*](/rmu/nano/firmware/IO_3v04_2v11_RTU2.rbf)
+- <a href="/rmu/nano/firmware/IO_3v04_2v11_RTU2.rbf" download>I/O Firmware *Release 3v04 / 2v11*</a>
 - [I/O Firmware Release Notes *Issued 27-Jul-2023*](/nano/firmware/IO_Firmware_ChangeLog_2023-07-27.pdf)
 
 ## Software
-- [NÅNO RMU Modbus Master Simulator Poll File *zipped* *Release 2022-02-22*](/rmu/nano/P572_Modbus_Poll_File_22Feb2022.zip)
+- <a href="/rmu/nano/P572_Modbus_Poll_File_22Feb2022.zip" download>NÅNO RMU Modbus Master Simulator Poll File *zipped* *Release 2022-02-22*</a>
 - [Windows Modbus Master Simulator Installer *Link*](/nano/software#modbus-master-simulator)
 
