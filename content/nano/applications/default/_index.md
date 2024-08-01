@@ -12,6 +12,7 @@ dateCreated: 2022-05-05T10:38:19.135Z
 
 ## Application
 - [Default App *Release 1v3r3*](/nano/applications/default/default_1v3r3.ccc)
+- <a href="/nano/applications/default/default_1v3r3.ccc" download>Default App *Release 1v3r3*</a>
 
 ## Documents
 - [Default App - Config & User Manual *Contact factory*]()
