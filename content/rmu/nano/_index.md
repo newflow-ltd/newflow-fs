@@ -26,6 +26,6 @@ NOTE: If updating from version 3v6r0 or earlier, contact factory
 - [I/O Firmware Release Notes *Issued 27-Jul-2023*](/nano/firmware/IO_Firmware_ChangeLog_2023-07-27.pdf)
 
 ## Software
-- <a href="/rmu/nano/P572_Modbus_Poll_File_22Feb2022.zip" download>NÅNO RMU Modbus Master Simulator Poll File *zipped* *Release 2022-02-22*</a>
+- <a href="/rmu/nano/P572_Modbus_Poll_File_22Feb2022.xml" download>NÅNO RMU Modbus Master Simulator Poll File *Release 2022-02-22*</a>
 - [Windows Modbus Master Simulator Installer *Link*](/nano/software#modbus-master-simulator)
 
