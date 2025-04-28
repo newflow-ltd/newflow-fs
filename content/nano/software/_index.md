@@ -11,8 +11,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## NÅNOconf
-- <a href="/nano/software/SetupNanoConf_4v5r8.msi" download>Windows Executable *Release 4v5r8*</a>
-- [Release Notes - 4r5r8 *Issued 21-Dec-2023*](/nano/software/NANOconf_ChangeLog_4v5r8.pdf)
+- <a href="/nano/software/SetupNanoConf_4v5r9.msi" download>Windows Executable *Release 4v5r9*</a>
+- [Release Notes - 4r5r9 *Issued 19-Mar-2025*](/nano/software/NANOconf_ChangeLog_4v5r9.pdf)
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
 ## Visual C||Cure
