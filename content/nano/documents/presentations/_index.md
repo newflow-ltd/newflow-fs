@@ -10,7 +10,6 @@ editor: markdown
 dateCreated: 2023-03-25T12:01:00.798Z
 ---
 
-## Application
 - <a href="/nano/documents/presentations/nano_presentation_1_general.pdf" download>NÅNO Presentation 1 - General *30-Jun-2025*</a>
 - <a href="/nano/documents/presentations/nano_presentation_2_architecture.pdf" download>NÅNO Presentation 2 - Architecture *30-Jun-2025*</a>
 - <a href="/nano/documents/presentations/nano_presentation_3_hardware.pdf" download>NÅNO Presentation 3 - Hardware *30-Jun-2025*</a>
