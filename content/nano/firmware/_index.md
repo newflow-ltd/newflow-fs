@@ -16,8 +16,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 
 ## I/O Firmware
 #### From 3vXX
-- <a href="/nano/firmware/IO_3v04_2v11.rbf" download>I/O Firmware *Release 3v04/2v11*</a>
-- [I/O Firmware Release Notes - 3v04/2v11 *Issued 27-Jul-2023*](</nano/firmware/IO_Firmware_3vXX_ChangeLog_2023-07-27.pdf>)
+- <a href="/nano/firmware/IO_3v05_2v12.rbf" download>I/O Firmware *Release 3v05/2v12*</a>
+- [I/O Firmware Release Notes - 3v05/2v12 *Issued 25-Feb-2025*](</nano/firmware/IO_Firmware_3vXX_ChangeLog_2025-02-25.pdf>)
 #### From 2vXX
 - <a href="/nano/firmware/IO_2v05_2v10.rbf" download>I/O Firmware *Release 2v05/2v10*</a>
 - [2vXX Release Notes - 2v05/2v10 *Issued 19-Jan-2024*](</nano/firmware/IO_Firmware_2vXX_ChangeLog_2024-01-19.pdf>)
