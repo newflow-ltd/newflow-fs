@@ -16,8 +16,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
 ## Visual C||Cure
-- <a href="/nano/software/SetupVCC_4r9965.msi" download>Windows Executable *Release 4r9965*</a>
-- [Release Notes - 4r9965 *Issued 30-Jul-2025*](/nano/software/Visual_CCure_ChangeLog_2025-07-30.pdf)
+- <a href="/nano/software/SetupVCC_4r10018.msi" download>Windows Executable *Release 4r10018*</a>
+- [Release Notes - 4r10018 *Issued 30-Sep-2025*](/nano/software/Visual_CCure_ChangeLog_2025-09-30.pdf)
 - <a href="/nano/software/base_library_2024-02-12.zip" download>Base Library *zipped* *Issued 12-Feb-2024*</a>
 - [User Manual *Release Rev4*](/nano/software/Visual_CCure_User_Manual_Release_R4.pdf)
 - [Comms Links Manual *Release Rev3*](/nano/software/Visual_CCure_Comms_Links_-_Release_R3.pdf)
