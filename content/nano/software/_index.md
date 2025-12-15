@@ -50,10 +50,10 @@ dateCreated: 2022-05-05T10:38:19.135Z
 #### Example Files for Unified Prover Application
 - [Example Meter Run file *Contact factory*]()
 
-[comment]: - <a href="/nano/software/NanoLogViewer1v1.exe" download>Example Meter Run file</a>
+[comment]: - <> (<a href="/nano/software/NanoLogViewer1v1.exe" download>Example Meter Run file</a>)
 
 - [Example Prover file *Contact factory*]()
 
-[comment]: - <a href="/nano/software/NanoLogViewer1v1.exe" download>Example Prover file</a>
+[comment]: # (- <a href="/nano/software/NanoLogViewer1v1.exe" download>Example Prover file</a>)
 
 
