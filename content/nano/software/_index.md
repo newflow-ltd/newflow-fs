@@ -43,10 +43,8 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - <a href="/nano/software/NanoLogViewer1v1.exe" download>Windows Executable *Release 1v1*</a>
 
 ## OmniBuss
-- [OmniBuss Executable *Contact factory*]()
+- <a href="/nano/software/OmniBuss.exe" download>OmniBuss Executable *Release 0.5.3.1*</a>
 - [User Manual *Release Rev2*](/nano/software/P587_OmniBuss_User_Manual_R2.pdf)
-
-[comment]: # (- <a href="/nano/software/NanoLogViewer1v1.exe" download>OmniBuss Executable *Release 0.5.3.1*</a>)
 
 #### Example Files for Unified Prover Application
 - [Example Meter Run file *Contact factory*]()
