@@ -16,7 +16,7 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
 ## Visual C||Cure v5
-for legacy v4 Visual C||Cure see bottom of page
+For Legacy v4 Visual C||Cure, see bottom of page
 - <a href="/nano/software/SetupVCC_5v1.msi" download>Windows Executable *Release 5v1*</a>
 - [Version 5 Software Update](/nano/software/Version5_Software_Update.pdf)
 - <a href="/nano/software/base_library_2024-02-12.zip" download>Base Library *zipped* *Issued 12-Feb-2024*</a>
