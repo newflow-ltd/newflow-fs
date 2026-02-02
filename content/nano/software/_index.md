@@ -15,11 +15,12 @@ dateCreated: 2022-05-05T10:38:19.135Z
 - [Release Notes - 4r5r9 *Issued 19-Mar-2025*](/nano/software/NANOconf_ChangeLog_4v5r9.pdf)
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
-## Visual C||Cure
-- <a href="/nano/software/SetupVCC_4r10018.msi" download>Windows Executable *Release 4r10018*</a>
-- [Release Notes - 4r10018 *Issued 30-Sep-2025*](/nano/software/Visual_CCure_ChangeLog_2025-09-30.pdf)
+## Visual C||Cure v5
+for legacy v4 Visual C||Cure see bottom of page
+- <a href="/nano/software/SetupVCC_5v1.msi" download>Windows Executable *Release 5v1*</a>
+- [Version 5 Software Update](/nano/software/Version5_Software_Update.pdf)
 - <a href="/nano/software/base_library_2024-02-12.zip" download>Base Library *zipped* *Issued 12-Feb-2024*</a>
-- [User Manual *Release Rev4*](/nano/software/Visual_CCure_User_Manual_Release_R4.pdf)
+- [Visual C||Cure v5 User Manual *Release Rev0*](/nano/software/Visual_CCure_v5_User_Manual-Release_R0.pdf)
 - [Comms Links Manual *Release Rev3*](/nano/software/Visual_CCure_Comms_Links_-_Release_R3.pdf)
 
 ## XML Tester
@@ -49,3 +50,11 @@ dateCreated: 2022-05-05T10:38:19.135Z
 #### Example Files for Unified Prover Application
 - <a href="/nano/software/AMR_Calibration_Services_LLP-MeterData-UnifiedProver_1v2.xlsx" download>Example Meter Run file *AMR_Calibration Services LLP-Meter Data-Unified Prover 1v2.xlsx*</a>
 - <a href="/nano/software/AMR_Calibration_Services_LLP-ProverData-UnifiedProver_1v3.xlsx" download>Example Prover file *AMR Calibration Services LLP-Prover Data-Unified Prover 1v3.xlsx*</a>
+
+## Visual C||Cure v4 - Legacy
+- <a href="/nano/software/Legacy_VCCure_v4/SetupVCC_4r10018.msi" download>Windows Executable *Release 4r10018*</a>
+- [Release Notes - 4r10018 *Issued 30-Sep-2025*](/nano/software/Legacy_VCCure_v4/Visual_CCure_ChangeLog_2025-09-30.pdf)
+- <a href="/nano/software/Legacy_VCCure_v4/base_library_2024-02-12.zip" download>Base Library *zipped* *Issued 12-Feb-2024*</a>
+- [User Manual *Release Rev4*](/nano/software/Legacy_VCCure_v4/Visual_CCure_User_Manual_Release_R4.pdf)
+- [Comms Links Manual *Release Rev3*](/nano/software/Legacy_VCCure_v4/Visual_CCure_Comms_Links_-_Release_R3.pdf)
+
