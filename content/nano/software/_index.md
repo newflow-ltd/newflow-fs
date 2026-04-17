@@ -11,8 +11,9 @@ dateCreated: 2022-05-05T10:38:19.135Z
 ---
 
 ## NÅNOconf
-- <a href="/nano/software/SetupNanoConf_4v5r9.msi" download>Windows Executable *Release 4v5r9*</a>
-- [Release Notes - 4r5r9 *Issued 19-Mar-2025*](/nano/software/NANOconf_ChangeLog_4v5r9.pdf)
+For Legacy v4 NÅNOconf, see bottom of page
+- <a href="/nano/software/SetupNanoConf_5v0r7.msi" download>Windows Executable *Release 5v0r7*</a>
+- [Release Notes - 5r0r7 *Issued 17-Apr-2026*](/nano/software/NANOconf_ChangeLog_5v0r7.pdf)
 - [User Manual *Release Rev1*](/nano/software/NANOConf_User_Manual_R1.pdf)
 
 ## Visual C||Cure v5
@@ -57,3 +58,7 @@ For Legacy v4 Visual C||Cure, see bottom of page
 - [User Manual *Release Rev4*](/nano/software/Legacy_VCCure_v4/Visual_CCure_User_Manual_Release_R4.pdf)
 - [Comms Links Manual *Release Rev3*](/nano/software/Legacy_VCCure_v4/Visual_CCure_Comms_Links_-_Release_R3.pdf)
 
+## NÅNOconf v4 - Legacy
+- <a href="/nano/software/Legacy_VCCure_v4/SetupNanoConf_4v5r9.msi" download>Windows Executable *Release 4v5r9*</a>
+- [Release Notes - 4r5r9 *Issued 19-Mar-2025*](/nano/software/NANOconf_ChangeLog_4v5r9.pdf)
+- [User Manual *Release Rev1*](/nano/software/Legacy_VCCure_v4/NANOConf_User_Manual_R1.pdf)
