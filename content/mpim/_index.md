@@ -20,3 +20,4 @@ NOTE: If updating from version 1v4r6 or earlier, contact factory
 
 ## Software
 - <a href="/mpim/P568Capture_1_0_15-with_INI_File.zip" download>P568 Jitterscope Windows Executable *Release 1v0r15*</a>
+- [Windows Bootloader Program *Link*](/rmu/pico#software)
