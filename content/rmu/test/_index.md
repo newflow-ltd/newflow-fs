@@ -14,8 +14,8 @@ dateCreated: 2022-05-05T11:47:12.610Z
 - [Pico RMU User Manual *Rev 7*](/rmu/pico/P591_PicoRMU_User_Manual_R7.pdf)
 
 ## Firmware
-__NOTE: If updating from a version earlier than 1v03, Contact Factory/Reseller.__
-- To update from version 1v03 or later
+__NOTE: If updating from a version earlier than 1v03, Contact Factory/Reseller.__  
+To update from version 1v03 or later
 - <a href="/rmu/pico/P591_update_instructions.pdf" download>Pico RMU Firmware Update Instructions</a>
 - <a href="/rmu/pico/PC_loader.exe" download>Pico RMU Firmware Loader</a>
 - <a href="/rmu/pico/p591_1v04r00_hi_secure[606D].hex" download>Pico RMU Firmware *Release 1v04*</a>
