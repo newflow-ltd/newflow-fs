@@ -15,7 +15,8 @@ dateCreated: 2022-05-05T11:47:12.610Z
 
 ## Firmware
 __NOTE: If updating from a version earlier than 1v03, Contact Factory/Reseller.__\
-To update from version 1v03 or later
+\
+To update from version 1v03 or newer
 - <a href="/rmu/pico/p591_1v04r00_hi_secure[606D].hex" download>Pico RMU Firmware *Release 1v04*</a>
 - [Pico Firmware Release Notes *Issued 15-Sep-2026*](/rmu/pico/P591_Pico_ChangeLog_2026-09-15.pdf)
 
