@@ -19,7 +19,7 @@ To update from version 1v03 or later
 - <a href="/rmu/pico/P591_update_instructions.pdf" download>Pico RMU Firmware Update Instructions</a>
 - <a href="/rmu/pico/PC_loader.exe" download>Pico RMU Firmware Loader</a>
 - <a href="/rmu/pico/p591_1v04r00_hi_secure[606D].hex" download>Pico RMU Firmware *Release 1v04*</a>
-- [NÅNO RMU Firmware Release Notes *Issued 26-Jan-2023*](/rmu/nano/P572_ChangeLog_2023-01-26.pdf)
+- [Pico Firmware Release Notes *Issued 15-Sep-2026*](/rmu/pico/P591_Pico_ChangeLog_2026-09-15.pdf)
 
 ## Software
 - <a href="/rmu/pico/Newflow BootLoader 1v0r5.exe" download>Windows BootLoader Program *Release 1v0r5*</a>
