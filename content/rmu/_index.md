@@ -12,5 +12,4 @@ dateCreated: 2022-05-05T11:47:12.610Z
 
 - [NÅNO RMU](nano)
 - [PICO RMU](pico)
-- [TEST](test)
 
